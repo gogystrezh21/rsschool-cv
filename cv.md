@@ -47,7 +47,7 @@ Pro-active specialist with a 3 years’ experience seeking a position in enginee
 
 - Belarusian National Technical University  2014-2019. Heating Gas Supply Ventilation and Air keeping
 - Basic web and SQL for software testing by  **[SkillUP](https://skillup.ua/)** 2021
-- «JavaScript/Front-end» Stage-0 by **[Rolling Scopes School](https://rs.school/js/)**
+- «JavaScript/Front-end» Stage-0 Stage-1 by **[Rolling Scopes School](https://rs.school/js/)**
 
 ## *Languages*
 
