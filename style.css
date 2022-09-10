@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;700;900&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Cairo', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.fullpage {
+    max-width: 1024px;
+    background-color: rgb(197, 195, 195);
+    margin: 0 auto;
+    padding: 0 40px 0 40px;
+}
+
+li {
+    list-style-type: none;
+}
+
+ul {
+    margin-left: 0;
+    padding-left: 0 !important;
+}
+
+.row {
+    padding-top: 1%;
+}
+
+.contacts img {
+    width: 8%;
+    height: 8%;
+    margin-right: 2%;
+}
+
+.contacts a,
+.experience a,
+.nav-link,
+.navbar-brand {
+    text-decoration: none;
+    color: black;
+    border-bottom: 1px solid darkgrey;
+}
+
+.contacts a:hover,
+.experience a:hover,
+.nav-link:hover,
+.navbar-brand:hover {
+    border-bottom: 1px solid black;
+    transition: all ease 0.2s;
+    color: black;
+}
+
+pre {
+    background-color: darkgrey;
+}
+
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+@media (max-width: 554px) {
+    .contacts {
+        width: 240%;
+    }
+}
